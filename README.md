@@ -1,10 +1,9 @@
 # Portofolio Analisis Data
 
-1. Case Study Data Mining Course
+# 1. Case Study Data Mining Course
 
 Proyek ini merupakan portofolio analisis data yang mencakup berbagai teknik eksplorasi dan pemodelan data, mulai dari eksplorasi awal, hingga analisis opini publik dari media sosial. 
 Proyek ini terbagi menjadi 4 Case Study dan 1 Final Project yang dikerjakan selama menjalani perkuliahan pada kelas Data Mining.
----
 
 ## 🧠 Ruang Lingkup Analisis
 
@@ -49,7 +48,7 @@ Proyek ini terbagi menjadi 4 Case Study dan 1 Final Project yang dikerjakan sela
 
 ---
 
-2. Skripsi 
+# 2. Skripsi 
 
 # 🌾 Peramalan Harga Beras Nasional Menggunakan Long Short-Term Memory
 
